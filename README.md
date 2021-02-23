@@ -32,6 +32,7 @@ Right now, I'm leaning towards back end development with C++. I'm trying to jugg
 2. [Udacity: C++ for Programmers](https://classroom.udacity.com/courses/ud210)
 3. [Udemy: C++ Tutorial for Complete Beginners](https://www.udemy.com/share/101qVCAEQaeFlTQH4=/)
 4. [100 Days of Code](https://www.100daysofcode.com/)
+5. [Microsoft: C++ Language Documentation](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
 
 ### ✅ Done:
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
