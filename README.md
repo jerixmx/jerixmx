@@ -38,5 +38,5 @@ Right now, I'm leaning towards back end development with C++. I'm trying to jugg
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 2. [Freecodecamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
-### 📗 Currently Reading:
+### 📙 Currently Reading:
 1. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://books.google.com.ph/books/about/How_to_Take_Smart_Notes.html?id=lHDsDwAAQBAJ&source=kp_book_description&redir_esc=y) by Sönke Ahrens
