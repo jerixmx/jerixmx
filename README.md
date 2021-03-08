@@ -40,4 +40,5 @@ Right now, I'm leaning towards back end development with C++. I'm trying to jugg
 2. [Freecodecamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### 📙 Currently Reading:
-1. [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://books.google.com.ph/books/about/How_to_Take_Smart_Notes.html?id=lHDsDwAAQBAJ&source=kp_book_description&redir_esc=y) by Sönke Ahrens
+1. [Sams Teach Yourself C++ in 21 Days](https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112) by Bradley Jones and Jesse Liberty
+2. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
