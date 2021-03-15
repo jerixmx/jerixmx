@@ -25,6 +25,8 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 1. [Harvard OCW: CS50x](https://cs50.harvard.edu/x/2021/)
 2. [Coursera: Introduction to Game Development](https://www.coursera.org/learn/game-development/home/welcome)
 3. [Hackerrank](https://www.hackerrank.com/jerixmx)
+4. [From Nand to Tetris](https://www.nand2tetris.org/)
+5. Linux Familiarization
 
 ### 📙 Currently Reading:
 1. [Sams Teach Yourself C++ in 21 Days](https://www.amazon.com/Sams-Teach-Yourself-Days-5th/dp/0672327112) by Bradley Jones and Jesse Liberty
@@ -37,9 +39,10 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 3. [Udemy: C++ Tutorial for Complete Beginners](https://www.udemy.com/share/101qVCAEQaeFlTQH4=/)
 4. [100 Days of Code](https://www.100daysofcode.com/)
 5. [Microsoft: C++ Language Documentation](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
-6. [From Nand to Tetris](https://www.nand2tetris.org/)
+6. [Udemy: How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/)
 
 ### ✅ Done:
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 2. [Freecodecamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 3. [Alison: Introduction to C++ Programming Language](https://alison.com/course/introduction-to-c-plus-plus-programming-language)
+4. Installed [Arch Linux](https://wiki.archlinux.org/index.php/Installation_guide)
