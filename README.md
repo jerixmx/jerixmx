@@ -32,3 +32,4 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 2. [Freecodecamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 3. [Alison: Introduction to C++ Programming Language](https://alison.com/course/introduction-to-c-plus-plus-programming-language)
 4. Installed [Arch Linux](https://wiki.archlinux.org/index.php/Installation_guide)
+5. [Udemy:Learn The Linux Command Line: Basic Commands](https://www.udemy.com/share/101E2KAEQaeFlTQH4=/)
