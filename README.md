@@ -14,7 +14,7 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 
 ### 📙 Currently Reading:
 1. [The C++ Programming Language](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup
-2. [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+2. [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 3. [Beginning STM32](https://www.amazon.com/Beginning-STM32-Developing-FreeRTOS-libopencm3/dp/1484236238) by Warren Gay
 
 ### ⏫ Up Next?
