@@ -18,7 +18,7 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 3. [Beginning STM32](https://www.amazon.com/Beginning-STM32-Developing-FreeRTOS-libopencm3/dp/1484236238) by Warren Gay
 
 ### ⏫ Up Next?
-1. [The Linux Foundation: A Beginner’s Guide to Open Source Software Development (LFD102)]https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/
+1. [The Linux Foundation: A Beginner’s Guide to Open Source Software Development (LFD102)](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/)
 2. [LibreOffice Volunteer](https://www.volunteermatch.org/search/opp2933438.jsp)
 3. [From Nand to Tetris](https://www.nand2tetris.org/)
 4. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
