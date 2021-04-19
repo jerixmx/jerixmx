@@ -10,19 +10,20 @@ Right now, I'm leaning towards back end development with C++ and embedded system
 3. [Hackerrank](https://www.hackerrank.com/jerixmx)
 
 ### 📙 Currently Reading:
-1. [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+1. [Beginning STM32](https://www.amazon.com/Beginning-STM32-Developing-FreeRTOS-libopencm3/dp/1484236238) by Warren Gay
+2. [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 
 ### ⏫ Up Next?
-1. [Udemy: How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/)
-2. [The Linux Foundation: A Beginner’s Guide to Open Source Software Development (LFD102)](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/)
-3. [KDE Volunteer](https://community.kde.org/Get_Involved/development)
-4. [LibreOffice Volunteer](https://www.volunteermatch.org/search/opp2933438.jsp)
-5. [From Nand to Tetris](https://www.nand2tetris.org/)
-6. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
-7. [Udacity: C++ for Programmers](https://classroom.udacity.com/courses/ud210)
-8. [The C++ Programming Language](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup
-9. [100 Days of Code](https://www.100daysofcode.com/)
-10. [Beginning STM32](https://www.amazon.com/Beginning-STM32-Developing-FreeRTOS-libopencm3/dp/1484236238) by Warren Gay
+1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+2. [Udemy: How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/)
+3. [The Linux Foundation: A Beginner’s Guide to Open Source Software Development (LFD102)](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/)
+4. [KDE Volunteer](https://community.kde.org/Get_Involved/development)
+5. [LibreOffice Volunteer](https://www.volunteermatch.org/search/opp2933438.jsp)
+6. [From Nand to Tetris](https://www.nand2tetris.org/)
+7. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
+8. [Udacity: C++ for Programmers](https://classroom.udacity.com/courses/ud210)
+9. [The C++ Programming Language](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup
+10. [100 Days of Code](https://www.100daysofcode.com/)
 
 ### ✅ Done:
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
