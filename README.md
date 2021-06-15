@@ -2,7 +2,7 @@
 
 Took a C Programming class in college. Enjoyed it and did well! Learned some Matlab in grad school. Programmed a disinfection device's control systems and user interface with Arduino, learning as I go. 
 
-Right now, I'm leaning towards software development with C++ and embedded systems. I'm trying to juggle some learning paths and document them here on Github. I also have a [detailed learning log on Google Sheets](https://docs.google.com/spreadsheets/d/1i7UAxNMvgQR9_rG7uuJqwNiVmnOW0JaWfdZnVrNqjRk/edit?usp=sharing).
+Right now, I'm leaning towards software development with C++. I'm trying to juggle some learning paths and document them here on Github. I also have a [detailed learning log on Google Sheets](https://docs.google.com/spreadsheets/d/1i7UAxNMvgQR9_rG7uuJqwNiVmnOW0JaWfdZnVrNqjRk/edit?usp=sharing).
 
 ### 📝 Courses/Tracks I'm currently on:
 1. [Cloud Native Fundamentals Scholarship Program](https://classroom.udacity.com/nanodegrees/nd064-1/)
