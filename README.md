@@ -1,8 +1,8 @@
-### Hi there! I'm Jeri and I'm new to software dev.
+#### Hi there! I'm Jeri, a physical product design engineer looking to transition to software development.
 
-Took a C Programming class in college. Enjoyed it and did well! Learned some Matlab in grad school. Programmed a disinfection device's control systems and user interface with Arduino, learning as I go. 
+My current tech stack is C, C++, Python, Javascript, HTML, CSS, SQL, Linux, Git, and GCC. In my last project, I designed and programmed an automated disinfection device with Arduino/C++. My understanding of tech is still surface-level at this point but I am eager to learn more!
 
-Right now, I'm leaning towards software development with C++. I'm trying to juggle some learning paths and document them here on Github. 
+I'm trying to juggle some learning paths and document them here on Github. 
 
 ### 📝 Courses/Tracks I'm currently on:
 1. [Cloud Native Fundamentals Scholarship Program](https://classroom.udacity.com/nanodegrees/nd064-1/)
@@ -20,7 +20,7 @@ Right now, I'm leaning towards software development with C++. I'm trying to jugg
 9. [From Nand to Tetris](https://www.nand2tetris.org/)
 10. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
 11. [Exercism](https://exercism.io/profiles/jerixmx)
-12. KDE Volunteer](https://community.kde.org/Get_Involved/development)
+12. [KDE Volunteer](https://community.kde.org/Get_Involved/development)
 
 ### ✅ Done:
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
@@ -34,3 +34,4 @@ Right now, I'm leaning towards software development with C++. I'm trying to jugg
 9. [The Linux Foundation: A Beginner’s Guide to Open Source Software Development (LFD102)](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/)
 10. Yosemite Labs Python Assessment
 11. Hatchways Python Assessment
+12. [Codecademy: Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
