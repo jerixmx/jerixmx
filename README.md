@@ -35,3 +35,4 @@ I'm trying to juggle some learning paths and document them here on Github.
 10. Yosemite Labs Python Assessment
 11. Hatchways Python Assessment
 12. [Codecademy: Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+13. [John Smilga: Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=24249s)
