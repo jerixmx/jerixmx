@@ -36,3 +36,4 @@ I'm trying to juggle some learning paths and document them here on Github.
 11. Hatchways Python Assessment
 12. [Codecademy: Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 13. [John Smilga: Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=24249s)
+14. [John Smilga: Node Projects - Task Manager API](https://www.youtube.com/watch?v=jIsj0upCBAM&t=2185s)
