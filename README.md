@@ -1,26 +1,24 @@
 #### Hi there! I'm Jeri, a physical product design engineer looking to transition to software development.
 
-My current tech stack is C, C++, Python, Javascript, HTML, CSS, SQL, Linux, Git, and GCC. In my last project, I designed and programmed an automated disinfection device with Arduino/C++. My understanding of tech is still surface-level at this point but I am eager to learn more!
+I'm currently working with a team on a tattoo contest website project through Hatchways. In my last project, I designed and programmed an automated disinfection device with Arduino/C++. 
 
-I'm trying to juggle some learning paths and document them here on Github. 
+My current tech stack is C, C++, Python, Javascript, Typescript, MongoDB, ReactJS, Material UI, HTML, CSS, SQL, Linux, Git, and GCC. My understanding of tech is still surface-level at this point but I am eager to learn more!
 
 ### 📝 Courses/Tracks I'm currently on:
-1. [Cloud Native Fundamentals Scholarship Program](https://classroom.udacity.com/nanodegrees/nd064-1/)
-2. [Harvard OCW: CS50x](https://cs50.harvard.edu/x/2021/)
+1. [Hatchways Career Accelerator Program](https://github.com/hatchways/team-old-fashioned)
+2. [Cloud Native Fundamentals Scholarship Program](https://classroom.udacity.com/nanodegrees/nd064-1/)
 
 ### ⏫ Up Next?
-1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-2. [Google for Education: C++](https://developers.google.com/edu/c++)
-3. [Udemy: How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/)
-4. [Udacity: C++ for Programmers](https://classroom.udacity.com/courses/ud210)
-5. [The C++ Programming Language](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup
-6. [100 Days of Code](https://www.100daysofcode.com/)
-7. [Hackerrank](https://www.hackerrank.com/jerixmx)
-8. [Beginning STM32](https://www.amazon.com/Beginning-STM32-Developing-FreeRTOS-libopencm3/dp/1484236238) by Warren Gay
-9. [From Nand to Tetris](https://www.nand2tetris.org/)
-10. [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p) by Noam Nisan and Shimon Schocken
-11. [Exercism](https://exercism.io/profiles/jerixmx)
-12. [KDE Volunteer](https://community.kde.org/Get_Involved/development)
+1. [Harvard OCW: CS50x](https://cs50.harvard.edu/x/2021/)
+2. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+3. [Google for Education: C++](https://developers.google.com/edu/c++)
+4. [Udemy: How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/)
+5. [Udacity: C++ for Programmers](https://classroom.udacity.com/courses/ud210)
+6. [The C++ Programming Language](https://www.stroustrup.com/4th.html) by Bjarne Stroustrup
+7. [100 Days of Code](https://www.100daysofcode.com/)
+8. [Hackerrank](https://www.hackerrank.com/jerixmx)
+9. [Exercism](https://exercism.io/profiles/jerixmx)
+10. [KDE Volunteer](https://community.kde.org/Get_Involved/development)
 
 ### ✅ Done:
 1. [Codecademy: Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
