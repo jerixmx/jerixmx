@@ -1,6 +1,6 @@
 #### Hi there! 
 
-#### I'm Jeri, a physical product design engineer looking to transition to software development.
+#### I'm Jeri, I am a junior software developer transitioning from product design engineering.
 
 Through Hatchways, our team worked on a [MERN stack-based tattoo contest website](https://github.com/hatchways/team-old-fashioned). In my last project as a product design engineer, I designed and programmed [an automated, portable disinfection device](https://www.pchrd.dost.gov.ph/news/6615-dost-pchrd-wraps-up-activities-for-first-virtual-nstw) with Arduino/C++. 
 
