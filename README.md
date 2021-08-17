@@ -2,7 +2,7 @@
 
 #### I'm Jeri, I am a junior software developer transitioning from product design engineering.
 
-Through Hatchways, our team worked on a [MERN stack-based tattoo contest website](https://github.com/hatchways/team-old-fashioned). In my last project as a product design engineer, I designed and programmed [an automated, portable disinfection device](https://www.pchrd.dost.gov.ph/news/6615-dost-pchrd-wraps-up-activities-for-first-virtual-nstw) with Arduino/C++. 
+Through Hatchways, our team worked on a [MERN stack-based tattoo contest website](https://github.com/hatchways/team-old-fashioned/tree/dev-jeri). In my last project as a product design engineer, I designed and programmed [an automated, portable disinfection device](https://www.pchrd.dost.gov.ph/news/6615-dost-pchrd-wraps-up-activities-for-first-virtual-nstw) with Arduino/C++. 
 
 :books: Tech Stack: MongoDB, Express.js, React.js, Node.js, Material UI, C, C++, Python, SQL, HTML, CSS
 
