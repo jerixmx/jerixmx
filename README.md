@@ -10,4 +10,4 @@ Through Hatchways, our team worked on a [MERN stack-based tattoo contest website
 
 :arrow_double_up: Up Next: [Harvard OCW: CS50x](https://cs50.harvard.edu/x/2021/) (more [here](https://gist.github.com/jerixmx/d58313ad54c2ab995e86c0304c116ab3))
 
-:white_check_mark: Last Completed: [Hatchways Career Accelerator Program](https://github.com/hatchways/team-old-fashioned) ([complete list](https://gist.github.com/jerixmx/3ca5873c4abcb26f8ae50b96b46bf9c2))
+:white_check_mark: Last Completed: [Hatchways Career Accelerator Program](https://github.com/hatchways/team-old-fashioned/tree/dev-jeri) ([complete list](https://gist.github.com/jerixmx/3ca5873c4abcb26f8ae50b96b46bf9c2))
