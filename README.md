@@ -1,8 +1,8 @@
 #### Hi there! 
 
 #### I'm Jeri, former product design engineer, now a software engineer. 🥳
-🗣️ Languages: Typescript, Javascript, Python, C++  
-📚 Tech Stack: Angular 8, MongoDB, Neo4j, ElasticSearch, Cassandra, React.js, Node.js, Express.js, Material UI, Docker, Stripe API  
-🛠️ Tools: Linux, Git, GCC, Visual Studio Code  
+🗣️ Languages:  JavaScript | TypeScript
+📚 Tech Stack: Node.js | NestJS | Angular | React | Jest | Bull | MongoDB | Neo4J | Cassandra | ElasticSearch | Redis
+🛠️ Tools: Git | Linux | Docker
 
 I've moved to [Gitlab](https://gitlab.com/jerixmx)! See you there! 
